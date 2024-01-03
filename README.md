@@ -1,7 +1,6 @@
 # ECE411-Team3
 
-**(ondinehunter is my previous github account)
-**
+"ondinehunter" is my previous github account
 
 Practicum Project for ECE 411
 
